@@ -1,0 +1,37 @@
+
+/* form page fields style attributes */
+h3{
+    color: darkgreen;
+}
+
+
+body {
+   
+
+    background-color: greenyellow;
+}
+
+
+
+#content{
+  background-color:white;
+}
+
+legend {
+
+    font-variant: small-caps;
+}
+
+.coloring{
+    font-size: small;
+    color: green !important;
+}
+
+.pay{
+  width: 20%;
+  height: 20%;
+}
+.redirect{
+  width: 25%;
+  height: 15%;
+}

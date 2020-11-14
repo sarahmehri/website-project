@@ -1,0 +1,63 @@
+
+/* form page fields style attributes */
+fieldset.border {
+    border: 2px solid darkgrey !important;
+}
+h3{
+    color: darkgreen;
+}
+
+
+
+.display-4 {
+    font-size: 4.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+
+/*  body style */
+body {
+    margin: 0 150px;
+
+    background-color: greenyellow;
+}
+
+
+
+#main {
+    background-color: white;
+
+}
+fieldset.border {
+
+    border: 2px solid darkgreen !important;
+}
+
+legend {
+
+    font-variant: small-caps;
+}
+
+#order {
+    background-color: darkgreen;
+    display: block;
+    margin: 0 30%;
+
+}
+.coloring{
+    font-size: small;
+    color: green !important;
+}
+#zip-text{
+    padding-left: 20px;
+    height: 45px;
+    width: 50%;
+}
+.zipdiv {
+
+    text-align: center;
+}
+#checkText{
+    text-align: center;
+}
