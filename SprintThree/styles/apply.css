@@ -1,0 +1,76 @@
+
+/* form page fields style attributes */
+fieldset.border {
+    border: 2px solid darkgrey !important;
+}
+h3{
+    color: black;
+}
+
+
+
+.display-4 {
+    font-size: 4.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+
+/*  body style */
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(59, 61, 65) !important;
+}
+
+#coloring{
+    background-color: darkgray;
+}
+
+#main {
+    background-color: white;
+
+}
+fieldset.border {
+
+    border: 2px solid darkgray !important;
+}
+
+legend {
+
+    font-variant: small-caps;
+}
+
+#order {
+    background-color: darkgreen;
+    display: block;
+    margin: 0 30%;
+
+}
+.coloring{
+    font-size: small;
+    color: black !important;
+}
+#zip-text{
+    padding-left: 20px;
+    height: 45px;
+    width: 50%;
+}
+.zipdiv {
+
+    text-align: center;
+}
+#checkText{
+    text-align: center;
+}
+#text{
+    text-align: right !important;
+
+}
+h5.a{
+    color: green !important;
+}
+#request-table{
+    text-align: center;
+
+}
